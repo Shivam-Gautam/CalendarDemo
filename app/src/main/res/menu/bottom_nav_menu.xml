@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="Calendar"
+        android:icon="@drawable/calendar_ic"
+        android:id="@+id/bnCalendar"/>
+    <item android:title="Tasks"
+        android:icon="@drawable/baseline_task_24"
+        android:id="@+id/bnTasks"/>
+</menu>
